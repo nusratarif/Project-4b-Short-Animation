@@ -12,19 +12,19 @@ const Contact = () => {
     return (
         <div className="contact">
         <div className="container">
-        <div className="common"data-aos="fade-down"  data-aos-easing="linear" data-aos-duration="3000">
+        <div className="common"data-aos="fade-down"  data-aos-easing="linear" data-aos-duration="1500">
                  <h1 className="contact-heading">Contact Us</h1> 
                                             
                 
               </div> 
           <div className="row h-123 alignCenter" >
               <div className="col-6">
-              <div className="contact-img" data-aos="fade-left" data-aos-duration="3000"  data-aos-easing="linear">
+              <div className="contact-img" data-aos="flip-left" data-aos-duration="1500"  data-aos-easing="linear">
               <img src={img1} alt="travel" height="500" />
          </div>   
               </div>
               <div className="col-6">
-                  <div className="about__info"data-aos="flip-right"  data-aos-duration="3000"  data-aos-easing="linear">
+                  <div className="about__info"data-aos="flip-right"  data-aos-duration="1500"  data-aos-easing="linear">
                       
                       <div className="info__contacts">
                           <div className="row">
