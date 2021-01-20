@@ -8,7 +8,7 @@ function Explore() {
           <div className="row" >
               <div className="col-6">
                   <div className="explore-img"  data-aos="flip-left"  data-aos-duration="3000"  data-aos-easing="linear">
-                  <img src={img} alt="explore" height="500" />
+                  <img src={img} alt="explore" height="400" />
                   </div>
               </div>
               <div className="col-6">

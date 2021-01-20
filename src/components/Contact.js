@@ -20,7 +20,7 @@ const Contact = () => {
           <div className="row h-123 alignCenter" >
               <div className="col-6">
               <div className="contact-img" data-aos="flip-left" data-aos-duration="1500"  data-aos-easing="linear">
-              <img src={img1} alt="travel" height="500" />
+              <img src={img1} alt="travel" height="400" />
          </div>   
               </div>
               <div className="col-6">

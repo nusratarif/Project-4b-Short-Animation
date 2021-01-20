@@ -31,7 +31,7 @@ const Header = () => {
                 </div>
                 <div className="col-6">
                   <div className="header-img" data-aos="fade-left" data-aos-duration="3000"  data-aos-easing="linear">
-                     <img src={img1} alt="travel" height="500" />
+                     <img src={img1} alt="travel" height="400" />
                   </div>  
                                     
                 </div>

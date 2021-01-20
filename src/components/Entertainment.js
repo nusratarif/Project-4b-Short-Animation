@@ -8,7 +8,7 @@ import img6 from './Images/beach.jpeg';
 import img7 from './Images/boating.jpeg';
 import img8 from './Images/hiking.png';
 import img9 from './Images/kids.png';
-// import img10 from './Images/';
+
 function Entertainment() {
     
     return (
@@ -21,48 +21,48 @@ function Entertainment() {
             </div>
             <div className="Entertainment-img" data-aos="zoom-in" data-aos-duration="3000"  data-aos-easing="linear">
             <div className="img-box">
-               <img className="img1" src={img1} alt="P1" height="300" width="300"/>
+               <img className="img1" src={img1} alt="P1" height="250" width="250"/>
                
                <h4>Five Star Hotel</h4>
                
             </div>
             <div className="img-box">
-               <img className="img2" src={img2} alt="P2" height="300" width="300" />
+               <img className="img2" src={img2} alt="P2" height="250" width="250" />
                <h4>Meals</h4>
                
             </div>
             <div className="img-box">
-                <img className="img3" src={img3}alt="P3" height="300" width="300"/>
+                <img className="img3" src={img3}alt="P3" height="250" width="250"/>
                 <h4>Road Trip</h4>
                 
             </div>
             <div className="img-box">
-                <img className="img4" src={img4}alt="P4" height="300" width="300"/>
+                <img className="img4" src={img4}alt="P4" height="250" width="250"/>
                 <h4>Amusement Park</h4>
                 
             </div>
             <div className="img-box">
-                <img className="img5" src={img5} alt="P1" height="300" width="300"/>
+                <img className="img5" src={img5} alt="P1" height="250" width="250"/>
                 <h4>Camping</h4>
                
             </div>
             <div className="img-box">
-                <img className="img6" src={img6} alt="P1" height="300" width="300"/>
+                <img className="img6" src={img6} alt="P1" height="250" width="250"/>
                 <h4>Beach Party</h4>
                
             </div>
             <div className="img-box">
-                <img className="img7" src={img7} alt="P1" height="300" width="300"/>
+                <img className="img7" src={img7} alt="P1" height="250" width="250"/>
                 <h4>Boating</h4>
                
             </div>
             <div className="img-box">
-                <img className="img8" src={img8} alt="P1" height="300" width="300"/>
+                <img className="img8" src={img8} alt="P1" height="250" width="250"/>
                 <h4>Hiking</h4>
                
             </div>
             <div className="img-box">
-                <img className="img9" src={img9} alt="P1" height="300" width="300"/>
+                <img className="img9" src={img9} alt="P1" height="250" width="250"/>
                 <h4>Make New Friends</h4>
                
             </div>
